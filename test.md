@@ -9,6 +9,6 @@
   * nice language
   * needs **a lot** of RAM
     * 4 GB is *lower* side
-    * 16 GB _would_ be nice
+    * 16 GB __would__ be nice
 * Nine courses 
 * Goes from raw data to data products
